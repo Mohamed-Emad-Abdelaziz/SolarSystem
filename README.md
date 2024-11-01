@@ -12,7 +12,7 @@ Experience a visually immersive solar system created entirely with C# and custom
 
 1. Clone the repository:
    ```bash
-   git clone <>
+   git clone <https://github.com/Mohamed-Emad-Abdelaziz/SolarSystem.git>
    ```
 2. Open the project in your preferred C# development environment.
 3. Run the project, launch the game, and start exploring!
